@@ -4,6 +4,6 @@
 public class Search {
     public void Fuck()
     {
-        
+        String a = "abac";
     }
 }
